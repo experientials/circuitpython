@@ -15,7 +15,7 @@ body:
       description: >-
         Include the version of CircuitPython you're running. You can see it in
         the `boot_out.txt` file, as well as in the `REPL`.
-      placeholder: Adafruit CircuitPython 6.2.0 on 2021-03-01; Raspberry Pi Pico with rp2040
+      placeholder: Ziloo CircuitPython 8.0.0 on 2021-03-01; Raspberry Pi Pico with rp2040
       render: python
     validations:
       required: true

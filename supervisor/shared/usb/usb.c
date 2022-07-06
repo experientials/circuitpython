@@ -250,6 +250,8 @@ void tud_cdc_line_state_cb(uint8_t itf, bool dtr, bool rts) {
 // WebUSB use vendor class
 // --------------------------------------------------------------------+
 
+bool tud_vendor_connected(void);
+
 bool tud_vendor_connected(void) {
     return web_serial_connected;
 }
