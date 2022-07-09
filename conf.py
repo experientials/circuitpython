@@ -142,7 +142,7 @@ redirects_file = 'docs/redirects.txt'
 current_date = time.localtime()
 
 # General information about the project.
-project = 'Adafruit CircuitPython'
+project = 'Ziloo CircuitPython'
 copyright = f'2014-{current_date.tm_year}, MicroPython & CircuitPython contributors (https://github.com/adafruit/circuitpython/graphs/contributors)'
 
 # These are overwritten on ReadTheDocs.
